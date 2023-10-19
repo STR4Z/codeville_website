@@ -108,6 +108,7 @@ button:hover {
   border: 3px solid var(--color2);
   background-color: var(--color4);
   color: white;
+  transition: all 0.5s ease-out;
   border-radius: 5px;
   text-align: center;
 }
